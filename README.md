@@ -17,16 +17,16 @@ Some of my interests include:
 Some of my projects include a Tensorflow model to predict amazone ratings based on written reviews.
 *Another* is an EtchASketch application made in JavaScript. I *also* have contributed to the Ozone Project
 
-## Colaboration ⛑
+### Colaboration ⛑
 I'm currently looking to collaborate on any projects related to any of my interests. I especially am looking towards any projects built in Python and anything related to Machine Learning and data, as I am especially interested in those fields.
 
-## Contact 📞
+### Contact 📞
 I can be contacted at
 - <a href="mailto:tsouabny@bostonk12.org">tsouabny@bostonk12.org</a>
 - <a href="twitter.com/tariksouabny">Twitter</a>
 - <a href="https://www.linkedin.com/in/tarik-souabny-7a6773235/">LinkedIn</a>
 
-## Skills 🥷
+### Skills 🥷
 Some of my skills include:
 
 - Version Control
