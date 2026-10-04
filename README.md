@@ -7,6 +7,8 @@ Interested in topology, statistics, and using math to understand investing.
 ## Currently building
 
 ### [TDA for Financial Data](https://github.com/tariksouabny/tda_distance)
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/b8135e6f-db99-4414-8013-97a0dfcdc91c" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/df8eb43d-88da-43fc-9963-ab39a962cfca" />
 
 I’m developing a Python library for applying topological data analysis to financial datasets.
 
